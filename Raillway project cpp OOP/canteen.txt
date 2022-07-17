@@ -1,0 +1,7 @@
+pittu 100 5
+appa 200 10
+those 10 100
+parata 30 20
+biriyani 250 10
+KIRI_BATH 100 200
+chattni 100 50

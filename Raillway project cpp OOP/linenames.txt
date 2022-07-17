@@ -1,0 +1,4 @@
+SEE_LINE 25 COLOMBO MATARA
+MAIN 10 colombo matara
+UWA 10 colombo matara
+madakalpu 20 colombo madakalapuawa
